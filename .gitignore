@@ -1,0 +1,6 @@
+.env
+server/.env
+.venv/
+node_modules/cd
+__pycache__
+test.py
